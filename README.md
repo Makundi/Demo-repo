@@ -1,3 +1,3 @@
 # Demo
 
-Somre description for the project!
+Some description for the project!
